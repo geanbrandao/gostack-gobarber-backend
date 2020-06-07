@@ -11,3 +11,6 @@ Para reverter as migrations feitas
 
 Para rmostrar as migrations que já executaram
 `yarn typeorm migration:show`
+
+Para alterar um campo especifico depois de a tabela ja esta em uso,
+cria uma nova migration
